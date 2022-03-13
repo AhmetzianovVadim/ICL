@@ -1,0 +1,12 @@
+D:\Летняя практика\TestApp2\bin\Debug\TestApp2.exe.config
+D:\Летняя практика\TestApp2\bin\Debug\TestApp2.exe
+D:\Летняя практика\TestApp2\bin\Debug\TestApp2.pdb
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.Form1.resources
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.Properties.Resources.resources
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.csproj.GenerateResource.cache
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.csproj.CoreCompileInputs.cache
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.exe
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.pdb
+D:\Летняя практика\TestApp2\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.csproj.ResolveComReference.cache
+D:\Летняя практика\TestApp2\obj\Debug\TestApp2.csproj.AssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestApp2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Location" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="SaveLocation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FormName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ахметзянов Вадим 4310</Value>
+    </Setting>
+    <Setting Name="DefaultAddressOfSite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gooogle.com</Value>
+    </Setting>
+    <Setting Name="Icon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">icons\icon.ico</Value>
+    </Setting>
+    <Setting Name="SaveAddress" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

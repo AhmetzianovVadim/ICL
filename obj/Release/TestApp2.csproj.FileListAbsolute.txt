@@ -1,0 +1,23 @@
+D:\Летняя практика\TestApp2\bin\Release\TestApp2.exe.config
+D:\Летняя практика\TestApp2\bin\Release\TestApp2.exe
+D:\Летняя практика\TestApp2\bin\Release\TestApp2.pdb
+D:\Летняя практика\TestApp2\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.csproj.ResolveComReference.cache
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.Form1.resources
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.Properties.Resources.resources
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.csproj.GenerateResource.cache
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.csproj.CoreCompileInputs.cache
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.exe
+D:\Летняя практика\TestApp2\obj\Release\TestApp2.pdb
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\bin\Release\TestApp2.exe.config
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\bin\Release\TestApp2.exe
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\bin\Release\TestApp2.pdb
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.csproj.AssemblyReference.cache
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.csproj.ResolveComReference.cache
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.Form1.resources
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.Properties.Resources.resources
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.csproj.GenerateResource.cache
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.csproj.CoreCompileInputs.cache
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.exe
+D:\3. For study\3 курс\Летняя практика\Посос\TestApp2\obj\Release\TestApp2.pdb
